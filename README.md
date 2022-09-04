@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/a7aj2xujlkrb02h7?svg=true)](https://ci.appveyor.com/project/Margarita7929/nevergiveup)
+[![Build status](https://ci.appveyor.com/api/projects/status/s1rqhqa8i29wvvo6?svg=true)](https://ci.appveyor.com/project/Margarita7929/uitests)
