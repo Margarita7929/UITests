@@ -22,10 +22,10 @@ public class CallbackTest {
     @Test
     void shouldTest() {
         open("http://localhost:9999");
-        SelenideElement form = $(".App_appContainer__3jRx1");
+        SelenideElement form = $("[data-test-id=callback-form]");
         form.$("[data-test-id=name] input").setValue("Быковская Маргарита");
         form.$("[data-test-id=phone] input").setValue("+79094657837");
-        form.$("[data-test-id=phone] agreement").click();
+        form.$("[data-test-id=agreement]").click();
         form.$("button").click();
 
 
